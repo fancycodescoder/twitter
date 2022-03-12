@@ -1,0 +1,18 @@
+
+        body{width:90%; margin: 0 auto;}
+        fieldset{width:17%; height:35%; margin-top: 5%; margin-left: 40%; border-radius:20px; box-sizing:border-box; box-shadow:14px 14px 20px #cbcde1,-50px -50px 20px white; background:#ecf0f3; border:1px solid #cbcde1}
+        input{margin-top:0.1em; margin-bottom:0.5em; width:200px; height:25px; margin-left:0.7em; padding-left:0.5em; background: #ecf0f3; font-size:14px; border-radius: 50px;box-shadow: inset 6px 6px 6px #cbcde1, inset -6px -6px 6px white; border: 1px solid black;background-image:url("https:img.icons8.com/color/100/000000/twitter--v2.png");background-repeat:no-repeat;background-position:left center}
+        .brand-logo{height:100px; width:100px; background:url("https:img.icons8.com/color/100/000000/twitter--v2.png"); margin:auto; box-sizing:border-box;border-radius:50%; box-shadow:7px 7px 10px #cbcde1, -7px -7px 10px white; margin-top: 10%}
+        button{width:212px; height:30px; margin-top:1.5em; margin-bottom:1.7em; margin-left:0.7em; padding-bottom:0.25em; padding-top:0.25em; transition:0.5s; cursor:pointer; border-radius:50px; border: 1px solid black; box-shadow:6px 6px 6px #cbcde1, -6px -6px 6px white; font-weight:900; background-color:#1da1f2}
+        button:hover{background-color: #f26e1d; border-color:#ecf0f3}
+        div.irk{padding-top:40px;padding-bottom: 10px; padding-left:15px; font-size:0.8em; font-family:Arial, Helvetica, sans-serif; font-weight: bold;}
+        div{padding-top:15px;padding-bottom:10px; padding-left:15px;font-size:0.8em; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+        input:hover{background-color:#ffffff; border-color:#1da1f2;background-position: right center;}
+        .tweet{font-size:1.2em; letter-spacing:0.1em; margin-left:45px; color:#1da1f2;font-weight:900; font-family: Georgia, 'Times New Roman', Times, serif;text-shadow:1px 1px 1px #cbcde1;}
+        /* .tweet:hover{color:#0084b4} */
+       /* input#email{background-image: url("https://zohowebstatic.com/sites/default/files/ogimage/mail-logo.png");} */
+        
+        
+
+        
+    
